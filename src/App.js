@@ -8,10 +8,7 @@ function App() {
   const [showCourses, setShowCourses] = useState(false);
   const [showStudents, setShowStudents] = useState(false);
 
-  //mbjrhebjrtbuetchkltjrtjrevktrkthekthekjtherkthekjtherjther
-  //kjhnfcechtjkvt
-  //jchwekrhekrhe
-  //wejcrhkwr
+  //mbjrhebjrtbuetch
   return (
     <div style={{ padding: "20px" }}>
       <h1>React Mount and Unmount Example</h1>
